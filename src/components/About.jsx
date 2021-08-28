@@ -9,8 +9,9 @@ function About(props) {
         <div>
       <section id="welcome-section" className="welcome-section "> 
          
-         <h1 className="text-"> 
-         Hi I am Stephen Infanto,A 24 year old Web developer, and a  Blogger</h1>
+         <h1 className="text-">   Hi I am Stephen Infanto,
+         {/* A 24 year old Web developer, and a  Blogger */}
+         </h1>
            {/* living in Chennai, India. I am a Web Engineer,currently working with great folks.<br/>
            Just connect with me on LinkedIn. 
         I am always excited to do business with  great people , lets discuss over coffee. */}

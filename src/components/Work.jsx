@@ -93,14 +93,14 @@ const Work = (props) => {
         key={item.ImageSrc}
       >
         <img src={item.ImageSrc} alt={item.title} />
-        <CarouselCaption captionText={item.title} captionHeader={item.title} />
+        <CarouselCaption captionText={"A Glimpse of my Work "} captionHeader={item.title} />
       </CarouselItem>
     );
   });
 
   return (
-    <div id="#projects">
-    <Carousel
+    <div id="Projects" >
+    <Carousel 
       activeIndex={activeIndex}
       next={next}
       previous={previous}

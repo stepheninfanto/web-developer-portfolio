@@ -14,7 +14,7 @@ const NavbarComp = (props) => {
                     <NavLink href="#skills">Skills</NavLink>
                 </li>
                 <li>
-                    <NavLink href="#projects">Work</NavLink>
+                    <NavLink href="#Projects">Work</NavLink>
                 </li>
                 <li>
                     <NavLink href="#contact">Contact</NavLink>
