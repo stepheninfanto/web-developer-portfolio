@@ -149,7 +149,8 @@ img {
 
 
 .nav-list a:hover {
-  background: var(--main-blue);
+  /* background: var(--main-blue); */
+  background: rgba(0, 128, 111, 0.918);
 }
 
 /* Welcome section */
