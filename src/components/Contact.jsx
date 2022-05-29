@@ -36,7 +36,7 @@ function Contact() {
 
           <a
           id="profile-link"
-          href="https://github.com/stepheninfanto"
+          href="https://www.linkedin.com/in/stephen-infanto/"
           target="_blank" rel="noreferrer"
           className="contact-details"
           ><i className="fab fa-linkedin"></i> LinkedIn
